@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PokePoke-InfiniteScrollPokemons/static/css/main.95478c08.css",
-    "main.js": "/PokePoke-InfiniteScrollPokemons/static/js/main.0a59a800.js",
+    "main.css": "/PokePoke-InfiniteScrollPokemons/static/css/main.dff4734d.css",
+    "main.js": "/PokePoke-InfiniteScrollPokemons/static/js/main.bd7a2d1c.js",
     "static/js/453.57b1255d.chunk.js": "/PokePoke-InfiniteScrollPokemons/static/js/453.57b1255d.chunk.js",
     "index.html": "/PokePoke-InfiniteScrollPokemons/index.html",
-    "main.95478c08.css.map": "/PokePoke-InfiniteScrollPokemons/static/css/main.95478c08.css.map",
-    "main.0a59a800.js.map": "/PokePoke-InfiniteScrollPokemons/static/js/main.0a59a800.js.map",
+    "main.dff4734d.css.map": "/PokePoke-InfiniteScrollPokemons/static/css/main.dff4734d.css.map",
+    "main.bd7a2d1c.js.map": "/PokePoke-InfiniteScrollPokemons/static/js/main.bd7a2d1c.js.map",
     "453.57b1255d.chunk.js.map": "/PokePoke-InfiniteScrollPokemons/static/js/453.57b1255d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95478c08.css",
-    "static/js/main.0a59a800.js"
+    "static/css/main.dff4734d.css",
+    "static/js/main.bd7a2d1c.js"
   ]
 }
